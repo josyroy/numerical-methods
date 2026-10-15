@@ -1,1 +1,1 @@
-manual coding of numerical methods in matlab, from enme 337 assignments
+manual coding of numerical methods in matlab, from endg 407 assignments
